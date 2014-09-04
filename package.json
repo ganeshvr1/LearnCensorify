@@ -1,0 +1,19 @@
+ {
+   "author": "ganesh",
+   "name": "censorify1",
+   "version": "0.1.1",
+   "description": "Censors words out of text",
+   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganeshvr1/https---github.com-ganeshvr1-nodejs"
+   },
+   "keywords": [
+     "censor",
+     "words"
+  ],
+   "dependencies": {},
+   "engines": {
+       "node": "*"
+   }
+ }
